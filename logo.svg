@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 88.090611 99.999997"
+   height="28.222221mm"
+   width="24.861128mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1314"
+     id="namedview8"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="8"
+     inkscape:cx="-11.390764"
+     inkscape:cy="50.477913"
+     inkscape:window-x="0"
+     inkscape:window-y="60"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g70-3" />
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <g
+     transform="translate(371.51434,-217.05274)"
+     id="layer1">
+    <g
+       transform="matrix(1.6035406,0,0,-1.6035406,-291.16883,317.05274)"
+       id="g70">
+      <path
+         id="path72"
+         style="fill:#e65130;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 0,0 -7.889,19.74 -30.499,0 1.782,4.396 26.947,0 -13.332,33.625 -1.994,4.601 4.697,0 L 4.83,0 0,0 Z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-1.6035406,0,0,-1.6035406,-363.9534,317.37189)"
+       id="g70-3" />
+  </g>
+</svg>
