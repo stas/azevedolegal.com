@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include header.html %}
+
+  <body class="bg-white gray-al inter-ui">
+
+    <header>
+      {% include nav.html %}
+    </header>
+
+    <main>
+      {% if page.hide_title != true %}
+        <h1 class="pl4 pt3 f1 fw3 ttu">{{ page.title }}</h1>
+      {% endif %}
+
+      {{ content }}
+    </main>
+
+    <footer>
+      {% include footer.html %}
+    </footer>
+
+  </body>
+</html>

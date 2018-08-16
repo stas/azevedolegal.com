@@ -1,0 +1,21 @@
+title: Azevedo Legal
+email: contact@azevedolegal.com
+description: Law Firm
+pt_description: Empresa de advocacia
+keywords: >
+  law firm, foreign investment, migration, real estate, corporate and
+  commercial, labour, employment, residency by investment, contracts,
+  notarial services
+pt_keywords: >
+  empresa de advocacia,serviços jurídicos,investimento
+  estrangeiro,migração,imobiliário,direito societário e comercial,trabalho,
+  emprego,residência por investimento
+url: 'https://azevedolegal.com'
+logo_url: 'https://azevedolegal.com/assets/logo.svg'
+ga_id: ''
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
