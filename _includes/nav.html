@@ -1,16 +1,22 @@
 {% if page.hide_nav != true %}
 <div class="w-100 pa4 flex flex-row items-end">
   <div class="w-5">
-    <img src="/assets/logo.svg" alt="Azevedo Legal Logo" class="h2" />
+    <a href="/" class="link dim">
+      <img src="/assets/logo.svg" alt="Azevedo Legal Logo" class="h2" />
+    </a>
   </div>
 
   <div class="w-60 pl3">
-    <h1 class="f4 fw3 ttu tracked mb0 soin-sans-pro">Azevedo Legal</h1>
+    <h1 class="f4 fw3 ttu tracked mb0 soin-sans-pro">
+      <a href="/pt/" class="link dim red-al">
+        Azevedo Legal
+      </a>
+    </h1>
   </div>
 </div>
 
 <div class="w-80 ph4 pv3 bt bb b--near-white flex flex-row items-baseline">
-  <a class="db red-al ttu link ml4" href="/">About</a>
-  <a class="db red-al ttu link ml4" href="/">Team</a>
+  <a class="db red-al ttu link dim {% if page.url contains 'about' %}bb b-red-al{% endif %}" href="/en/about">About</a>
+  <a class="db red-al ttu link dim {% if page.url contains 'team' %}bb b-red-al{% endif %} ml4" href="/en/team">Team</a>
 </div>
 {% endif %}
