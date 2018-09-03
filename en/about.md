@@ -3,8 +3,17 @@ title: About
 layout: en
 ---
 
-<div class="w-50">
+<div class="w-50 bg-near-white">
   <img src="/assets/team.jpg" alt="Azevedo Legal"/>
+
+  <blockquote class="measure pt3 pb4">
+    <em class="db lh-copy pv2">
+      This is the great moral challenge of our age, and soft-headedness about
+      migration is not the remedy.
+    </em>
+
+    &mdash;Paul Collier, Exodus
+  </blockquote>
 </div>
 
 <div class="w-80 ph4">
