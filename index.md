@@ -16,11 +16,11 @@ hide_nav: true
 
 <div class="w-80 pa4 pb0 bt b--near-white flex flex-row">
   <p class="w-40 f2 lh-copy pr4">
-    <a href="/en/about/" class="dim red-al">Azevedo Legal</a> is a law firm with
+    <a href="/en/about" class="dim red-al">Azevedo Legal</a> is a law firm with
     offices in Lisbon and Abu Dhabi.
   </p>
   <p class="w-60 f2 lh-copy">
-    <a href="/en/team/" class="dim red-al">Our team</a> can help with the legal
+    <a href="/en/team" class="dim red-al">Our team</a> can help with the legal
     services in foreign investment, private and family wealth, residency by
     investment, citizenship and corporate law.
   </p>

@@ -20,7 +20,7 @@ hide_nav: true
     advocacia com escritórios em Lisboa e Abu Dhabi.
   </p>
   <p class="w-60 f2 lh-copy">
-    <a href="/pt/equipe/" class="dim red-al">Nossa equipe</a> pode ajudar com os
+    <a href="/pt/equipe" class="dim red-al">Nossa equipe</a> pode ajudar com os
     serviços jurídicos em investimento estrangeiro, riqueza privada e familiar,
     residência por investimento, cidadania e direito societário.
   </p>
