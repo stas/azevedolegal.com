@@ -1,14 +1,14 @@
 {% if page.hide_nav != true %}
 <div class="w-100 pa4 flex flex-row items-end">
   <div class="w-5">
-    <a href="/" class="link dim">
+    <a href="/{% if page.layout == 'pt' %}pt/{% endif %}" class="link dim">
       <img src="/assets/logo.svg" alt="Azevedo Legal Logo" class="h2" />
     </a>
   </div>
 
   <div class="w-60 pl3">
     <h1 class="f4 fw3 ttu tracked mb0 soin-sans-pro">
-      <a href="/pt/" class="link dim red-al">
+      <a href="/{% if page.layout == 'pt' %}pt/{% endif %}" class="link dim red-al">
         Azevedo Legal
       </a>
     </h1>
@@ -16,7 +16,20 @@
 </div>
 
 <div class="w-80 ph4 pv3 bt bb b--near-white flex flex-row items-baseline">
-  <a class="db red-al ttu link dim {% if page.url contains 'about' %}bb b-red-al{% endif %}" href="/en/about">About</a>
-  <a class="db red-al ttu link dim {% if page.url contains 'team' %}bb b-red-al{% endif %} ml4" href="/en/team">Team</a>
+  {% if page.layout == 'pt' %}
+    <a class="db red-al ttu link dim {% if page.url contains 'sobre' %}bb b-red-al{% endif %}" href="/pt/sobre">
+      Sobre
+    </a>
+    <a class="db red-al ttu link dim {% if page.url contains 'equipe' %}bb b-red-al{% endif %} ml4" href="/pt/equipe">
+      Equipe
+    </a>
+  {% else %}
+    <a class="db red-al ttu link dim {% if page.url contains 'about' %}bb b-red-al{% endif %}" href="/en/about">
+      About
+    </a>
+    <a class="db red-al ttu link dim {% if page.url contains 'team' %}bb b-red-al{% endif %} ml4" href="/en/team">
+      Team
+    </a>
+  {% endif %}
 </div>
 {% endif %}

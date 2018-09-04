@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  {% include pt/header.html %}
+  {% include header.html description=site.pt_description keywords=site.pt_keywords %}
 
   <body class="bg-white gray-al inter-ui">
 
     <header>
-      {% include pt/nav.html %}
+      {% include nav.html %}
     </header>
 
     <main>
@@ -18,7 +18,7 @@
     </main>
 
     <footer>
-      {% include pt/footer.html %}
+      {% include footer.html message='Fale connosco' url='/' switch='In english' %}
     </footer>
 
   </body>

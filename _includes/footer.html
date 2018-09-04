@@ -1,8 +1,8 @@
 <div class="w-80 mt5 pa4 bt b--near-white flex flex-row items-end" id="#contact">
   <div>
     <h3 class="f6 fw7 ttu gray lh-title">
-      Talk to us
-      &bull; <a href="/pt" class="red-al link dim">Em português</a>
+      {{ include.message }}
+      &bull; <a href="{{ include.url }}" class="red-al link dim">{{ include.switch }}</a>
     </h3>
     <p class="lh-copy">
       &#9990; <a href="tel:+351210992855" class="gray link dim">+351 210 992 855 (PT)</a>
