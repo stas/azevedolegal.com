@@ -22,6 +22,6 @@ hide_nav: true
   <p class="w-60 f2 lh-copy">
     <a href="/en/team/" class="dim red-al">Our team</a> can help with the legal
     services in foreign investment, private and family wealth, residency by
-    investment, citizenship, corporate law.
+    investment, citizenship and corporate law.
   </p>
 </div>

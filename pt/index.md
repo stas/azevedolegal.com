@@ -21,8 +21,7 @@ hide_nav: true
   </p>
   <p class="w-60 f2 lh-copy">
     <a href="/pt/equipe/" class="dim red-al">Nossa equipe</a> pode ajudar com os
-    serviços jurídicos em investimento estrangeiro, migração, imobiliário,
-    direito societário e comercial, trabalho e emprego e a residência por
-    investimento.
+    serviços jurídicos em investimento estrangeiro, riqueza privada e familiar,
+    residência por investimento, cidadania e direito societário.
   </p>
 </div>
