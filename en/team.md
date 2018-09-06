@@ -3,12 +3,12 @@ title: Team
 layout: en
 ---
 
-<div class="w-50 bg-red-al">
+<div class="w-50-l w-100 bg-red-al">
   <img src="/assets/ines.jpg" alt="Inês Azevedo"/>
   <h2 class="f2 fw3 white pl4">Inês Azevedo</h2>
 </div>
 
-<div class="w-80 ph4">
+<div class="w-80-l w-100 ph4">
   <p class="lh-copy measure-wide">
     An experienced lawyer in the areas of Migration Law, Real Estate Law and
     Corporate Law, Inês founded Azevedo Legal in 2016. This boutique law firm
@@ -55,12 +55,12 @@ layout: en
 </div>
 
 
-<div class="w-50 bg-red-al">
+<div class="w-50-l w-100 bg-red-al">
   <img src="/assets/carlota.jpg" alt="Carlota Moctezuma"/>
   <h2 class="f2 fw3 white pl4">Carlota Moctezuma</h2>
 </div>
 
-<div class="w-80 ph4">
+<div class="w-80-l w-100 ph4">
 
   <p class="lh-copy measure-wide">
     Carlota joined the boutique law firm Azevedo Legal as a lawyer in May 2018.
@@ -90,12 +90,12 @@ layout: en
   </p>
 </div>
 
-<div class="w-50 bg-red-al">
+<div class="w-50-l w-100 bg-red-al">
   <img src="/assets/vivian.jpg" alt="Vivian Moreira"/>
   <h2 class="f2 fw3 white pl4">Vivian Moreira</h2>
 </div>
 
-<div class="w-80 ph4">
+<div class="w-80-l w-100 ph4">
 
   <p class="lh-copy measure-wide">
     Living in Portugal since 2016, Vivian joined the boutique law firm Azevedo

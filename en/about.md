@@ -3,11 +3,11 @@ title: About
 layout: en
 ---
 
-<div class="w-50">
+<div class="w-50-l w-100">
   <img src="/assets/team.jpg" alt="Azevedo Legal"/>
 </div>
 
-<div class="w-80 ph4">
+<div class="w-80-l w-100 ph4">
 
   <p class="lh-copy measure-wide">
     We live in an increasingly global world, defined by the movement of people,

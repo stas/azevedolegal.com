@@ -3,11 +3,11 @@ title: Sobre
 layout: pt
 ---
 
-<div class="w-50">
+<div class="w-50-l w-100">
   <img src="/assets/team.jpg" alt="Azevedo Legal"/>
 </div>
 
-<div class="w-80 ph4">
+<div class="w-80-l w-100 ph4">
 
   <p class="lh-copy measure-wide">
     Vivemos num mundo cada vez mais global que se caracteriza por uma sempre

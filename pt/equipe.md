@@ -4,12 +4,12 @@ layout: pt
 ---
 
 
-<div class="w-50 bg-red-al">
+<div class="w-50-l w-100 bg-red-al">
   <img src="/assets/ines.jpg" alt="Inês Azevedo"/>
   <h2 class="f2 fw3 white pl4">Inês Azevedo</h2>
 </div>
 
-<div class="w-80 ph4">
+<div class="w-80-l w-100 ph4">
   <p class="lh-copy measure-wide">
     Advogada com uma larga experiência no mundo do direito das migrações,
     imobiliário e societário fundou em 2016 a sociedade de advogados Azevedo
@@ -56,12 +56,12 @@ layout: pt
 </div>
 
 
-<div class="w-50 bg-red-al">
+<div class="w-50-l w-100 bg-red-al">
   <img src="/assets/carlota.jpg" alt="Carlota Moctezuma"/>
   <h2 class="f2 fw3 white pl4">Carlota Moctezuma</h2>
 </div>
 
-<div class="w-80 ph4">
+<div class="w-80-l w-100 ph4">
 
   <p class="lh-copy measure-wide">
     Entrou na sociedade de advogados Azevedo Legal em Maio de 2018 como
@@ -93,12 +93,12 @@ layout: pt
   </p>
 </div>
 
-<div class="w-50 bg-red-al">
+<div class="w-50-l w-100 bg-red-al">
   <img src="/assets/vivian.jpg" alt="Vivian Moreira"/>
   <h2 class="f2 fw3 white pl4">Vivian Moreira</h2>
 </div>
 
-<div class="w-80 ph4">
+<div class="w-80-l w-100 ph4">
 
   <p class="lh-copy measure-wide">
     Em Portugal desde 2016 ingressou na sociedade de advogados Azevedo Legal em
