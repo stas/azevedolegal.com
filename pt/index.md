@@ -16,13 +16,13 @@ hide_title: true
 </div>
 
 <div class="w-80-l w-100 pa4 pb0 bt b--near-white flex-l flex-row-l">
-  <p class="w-40-l w-100 f2 lh-copy pr4">
+  <p class="w-40-l w-100 f2 lh-copy">
     A <a href="/pt/sobre" class="dim red-al">Azevedo Legal</a> é um escritório de
     advocacia com escritórios em Lisboa e Abu Dhabi.
   </p>
-  <p class="w-60-l w-100 f2 lh-copy">
-    <a href="/pt/equipe" class="dim red-al">Nossa equipe</a> pode ajudar com os
-    serviços jurídicos em investimento estrangeiro, riqueza privada e familiar,
-    residência por investimento, cidadania e direito societário.
+  <p class="w-60-l pl4-l w-100 f2 lh-copy">
+    <a href="/pt/equipe" class="dim red-al">Nossa equipe</a> concentra-se em
+    riqueza privada e familiar, residência por investimento, cidadania,
+    investimento estrangeiro e direito societário.
   </p>
 </div>

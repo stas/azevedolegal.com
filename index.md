@@ -21,8 +21,8 @@ hide_title: true
     offices in Lisbon and Abu Dhabi.
   </p>
   <p class="w-60-l w-100 f2 lh-copy">
-    <a href="/en/team" class="dim red-al">Our team</a> can help with the legal
-    services in foreign investment, private and family wealth, residency by
-    investment, citizenship and corporate law.
+    <a href="/en/team" class="dim red-al">Our team</a> focuses
+    on private and family wealth, residency by
+    investment, citizenship, foreign investment and corporate law.
   </p>
 </div>
