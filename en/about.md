@@ -7,7 +7,7 @@ layout: en
   <img src="/assets/team.jpg" alt="Azevedo Legal"/>
 </div>
 
-<div class="w-80-l w-100 ph4">
+<div class="w-80-l w-100 ph4 pb4">
 
   <p class="lh-copy measure-wide">
     We live in an increasingly global world, defined by the movement of people,
@@ -43,18 +43,5 @@ layout: en
   <p class="lh-copy measure-wide">
     With us, clients always come first.
   </p>
-
-  <p class="lh-copy measure-wide tc pv4 silver">
-    * * *
-  </p>
-
-  <blockquote class="measure pb4">
-    <em class="db lh-copy pv2">
-      This is the great moral challenge of our age, and soft-headedness about
-      migration is not the remedy.
-    </em>
-
-    &mdash;Paul Collier, Exodus
-  </blockquote>
 
 </div>
